@@ -9,7 +9,7 @@ Detailed explanations of the bot architecture and strategy are provided in the `
 ---
 
 ## Repository Structure
-
+```
 poker-bots-competition
 |
 ├── bots
@@ -30,7 +30,7 @@ poker-bots-competition
 │
 ├── logs                     # Game logs
 └── requirements.txt
-
+```
 ---
 
 ## Installation

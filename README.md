@@ -36,26 +36,26 @@ poker-bots-competition
 ## Installation
 
 Install the required dependencies:
-
+```
 pip install -r requirements.txt
-
+```
 ---
 
 ## Running the Engine
 
 To run a match between bots using the game engine:
-
+```
 cd engine
 python engine.py
-
+```
 ---
 
 ## Running Tournament Evaluations
 
 To run automated matches between bots:
-
+```
 python evaluation/tournament.py
-
+```
 ---
 
 ## Documentation
